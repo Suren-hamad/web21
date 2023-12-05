@@ -1,0 +1,54 @@
+div h2{
+background-color: pink;
+text-align: center;
+height: 80px;
+border-radius: 10px;
+}
+div  ul {
+    width: 100px;
+    height: 600px;
+    background:whitesmoke;
+    border-radius: 20px;
+    box-shadow: 5px;
+   
+    
+}
+div ul li a :active {
+    color: brown;
+    transition: 0.5;
+}
+
+.iframe{
+    height: 298pt;
+    width: 120%;
+    display: block;
+    position: relative;
+    left: 128px;
+
+}
+
+a{
+    text-decoration: none;
+    
+    display: inline-block;
+}
+body{
+    max-width:100% ;
+}
+
+
+ .img {
+    height: 200px;
+    width: 200;
+    display: inline;
+    margin-top: 45px;
+    margin-left: 50px;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
